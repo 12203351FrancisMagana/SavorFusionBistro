@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363432480700",
+    "project_id": "savorfusionbistro",
+    "storage_bucket": "savorfusionbistro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363432480700:android:9b35147ff6ffd76f1725b9",
+        "android_client_info": {
+          "package_name": "com.mycompany.savorfusionbistro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkEE5LyjV8HYse-mLtHEL6fN_fMf9e3IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
